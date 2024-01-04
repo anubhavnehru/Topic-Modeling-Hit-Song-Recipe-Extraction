@@ -31,7 +31,7 @@ Key Concepts used :
 
 
 <p align="center">
-<img src="https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/19586a75-f077-447e-a420-66f1ddb7b0f9" width="300" height="300">
+<img src="https://github.com/anubhavnehru/Topic-Modeling-Hit-Song-Recipe-Extraction/assets/32483022/8b2c61d5-278b-4726-be78-c7cf53203091" width="300" height="300">
 </p>
 
 ## Future Enhancements
